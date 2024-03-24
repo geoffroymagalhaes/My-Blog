@@ -1,8 +1,17 @@
-# React + Vite
+# My-Blog
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+My Blog is a React introduction project the goal of this was to praticed splitting a project in a components folder, and to made it responsive.
 
-Currently, two official plugins are available:
+## Screenshot
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![laptop](./src/assets/img/Capture%20d’écran%202024-03-24%20à%2010.52.20.png)
+
+![tablet](./src/assets/img/Capture%20d’écran%202024-03-24%20à%2010.52.48.png)
+
+## Link to the Website
+
+https://geo-react-blog.netlify.app
+
+## Link to my linkedin
+
+https://www.linkedin.com/in/geoffroy-magalhaes-3345872b5
